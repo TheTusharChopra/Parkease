@@ -12,12 +12,17 @@ ParkEase is a full-stack web application built to make urban parking smarter and
 - Book parking slots in advance
 - Secure online payments
 - Manage your bookings via a user dashboard
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/d46124b9-8988-4725-a769-a702f12c4323" />
+<img width="1470" height="956" alt="Screenshot 2025-12-06 at 5 55 57 PM" src="https://github.com/user-attachments/assets/d4e8aec8-3769-4b0a-bf0a-46ff323f67d7" />
 
 ### 🧑‍💼 For Operators
 - List and manage parking lots
 - Approve/reject bookings
 - Monitor current slot occupancy
 - Operator dashboard for management and analytics
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1a5c908f-e5ac-4996-a116-e613661bb5cf" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/2702136b-05d0-4bdb-9a69-b56408d09039" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5cc7190f-a2b7-41ec-8253-c4582d7f43d7" />
 
 ### 🏠 For Residential Areas
 - Manage residential parking spaces
