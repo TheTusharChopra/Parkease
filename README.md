@@ -28,6 +28,8 @@ ParkEase is a full-stack web application built to make urban parking smarter and
 - Manage residential parking spaces
 - Track resident bookings
 - Residential dashboard for management
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7741e89c-82fc-41a0-a057-e6991bfaf761" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/fc9880ae-31dc-4e4c-9de0-fc589d78a3e7" />
 
 ---
 
